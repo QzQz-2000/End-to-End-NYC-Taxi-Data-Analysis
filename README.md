@@ -48,6 +48,6 @@ TODO
 
 ### Let's start
 
-- Google cloud platform environment - [Setup](./setup/GCP-Setup.md)
+- Google cloud platform environment - [Setup](/setup/GCP-Setup.md)
 - Create infra on GCP with Terraform - [Setup](./setup/Terraform-Setup.md)
 - Airflow orchestration - [Setup](./setup/Airflow-Setup.md)
