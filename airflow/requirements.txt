@@ -1,0 +1,8 @@
+requests
+#pyspark
+google-cloud-storage
+apache-airflow-providers-google
+pyarrow
+pandas
+duckdb
+dbt-bigquery
